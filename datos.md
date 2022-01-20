@@ -1,3 +1,3 @@
-Real Name: jgcardelus
+Real Name: John Doe
 Skills: Can write bad info docs.
-Email: a_monkey_could_do_a_better_job@sadly.com
+Email: john.doe@example.com
